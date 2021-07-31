@@ -16,4 +16,6 @@ kitty= cat $HOME/.config/kitty
 #kitty
 	mv ~/.config/kitty ~/.config/kitty.old;
 	cp -r ./kitty ~/.config/kitty;
-
+#zsh
+	mv ~/.zshrc ~/.zshrc.old
+	cp ./zshrc ~/.zshrc
