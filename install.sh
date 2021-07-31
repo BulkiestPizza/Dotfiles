@@ -2,7 +2,7 @@
 i3= cat $HOME/.config/i3/config;
 vim= cat $HOME/.vimrc
 polybar= cat $HOME/.config/polybar
-
+kitty= cat $HOME/.config/kitty
 
 if [[ -z $i3 ]];
 then
@@ -23,9 +23,17 @@ fi
 if [[ -z $polybar ]];
 then
 	mv ~/.config/polybar ~/.config/polybar.old;
-	cp ./polybar ~/.config/polybar;
+	cp -r ./polybar ~/.config/polybar;
 else
-	cp ./polybar ~/.config/polybar;
+	cp -r ./polybar ~/.config/polybar;
+fi
+
+if [[ -z $kitty ]];
+then
+	mv ~/.config/kitty ~/.config/kitty.old;
+	cp -r ./kitty ~/.config/kitty;
+else
+	cp -r ./kitty ~/.config/kitty;
 fi
 
 
