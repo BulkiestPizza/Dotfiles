@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/lachlan/Documents/Notes/English/Week1'
+let g:netrw_dirhist_6='/home/lachlan/.oh-my-zsh/custom/plugins/zsh-autosuggestions'
+let g:netrw_dirhist_5='/home/lachlan/.steam'
+let g:netrw_dirhist_4='/home/lachlan/.config'
+let g:netrw_dirhist_3='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:33/PNP0C09:00/PNP0C0A:00'
+let g:netrw_dirhist_2='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:33/PNP0C09:00/PNP0C0A:00/power_supply/BAT0/device'
+let g:netrw_dirhist_1='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/device:33/PNP0C09:00/PNP0C0A:00/power_supply/BAT0'
+let g:netrw_dirhist_0='/home/lachlan/.config/polybar'
+let g:netrw_dirhist_9='/home/lachlan/.local/share/fonts'
+let g:netrw_dirhist_8='/usr/share/fonts/TTF'
