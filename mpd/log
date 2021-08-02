@@ -1,0 +1,29 @@
+Aug 01 21:42 : exception: Failed to open '/home/lachlan/.mpd/state': No such file or directory
+Aug 01 21:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Aug 01 21:42 : avahi: Service 'Music Player @ Lachlan-Desktop' successfully established.
+Aug 01 21:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Aug 01 21:42 : avahi: Service 'Music Player @ Lachlan-Desktop' successfully established.
+Aug 01 21:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Aug 01 21:42 : avahi: Service 'Music Player @ Lachlan-Desktop' successfully established.
+Aug 01 21:47 : update: added /Carolus Rex.mp3
+Aug 01 21:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Aug 01 21:48 : update: added /The Last Stand.mp3
+Aug 01 21:52 : player: played "Carolus Rex.mp3"
+Aug 01 21:55 : player: played "The Last Stand.mp3"
+Aug 01 21:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Aug 01 22:01 : player: played "Carolus Rex.mp3"
+Aug 01 22:01 : update: added /Seven Nation Army.mp3
+Aug 01 22:05 : player: played "The Last Stand.mp3"
+Aug 01 22:06 : update: added /Broken Heroes.mp3
+Aug 01 22:08 : update: updating /Broken Heroes.mp3
+Aug 01 22:08 : update: added /Sacred Heart.mp3
+Aug 01 22:12 : player: played "Broken Heroes.mp3"
+Aug 01 22:14 : update: added /La Le Lej.mp3
+Aug 01 22:17 : player: played "Carolus Rex.mp3"
+Aug 01 22:21 : player: played "Sacred Heart.mp3"
+Aug 01 22:25 : player: played "Seven Nation Army.mp3"
+Aug 01 22:29 : player: played "La Le Lej.mp3"
+Aug 01 22:33 : player: played "The Last Stand.mp3"
+Aug 01 22:37 : player: played "Broken Heroes.mp3"
+Aug 01 22:40 : player: played "Broken Heroes.mp3"
+Aug 02 09:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
